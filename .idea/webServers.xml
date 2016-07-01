@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="86966987-6cf6-4e0d-a866-646145ff21f7" name="45.124.93.79" url="http://45.124.93.79">
+        <fileTransfer host="45.124.93.79" port="2015" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/binhntq" accessType="SFTP" passphrase="dfc8dfcbdfc5dfcddfcbdfdcdfc4" username="binhntq" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2015" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
